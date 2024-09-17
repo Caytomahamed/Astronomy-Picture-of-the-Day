@@ -85,7 +85,7 @@ Now is the time to build out your other components. Compose your UI using [React
 
 ```js
 // Display a loading message while the data is fetching
-if (!props.photoOfTheDay) return <h3>Loading...</h3>;
+
 
 // Display your component as normal after the data has been fetched
 return (
